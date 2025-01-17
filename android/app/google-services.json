@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "893560431224",
+    "project_id": "modemovie-76556",
+    "storage_bucket": "modemovie-76556.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893560431224:android:82ba8b8292584a54c1438d",
+        "android_client_info": {
+          "package_name": "com.example.modemovie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApjR_IMscXdRUhWWUDib1j9G-tJFnV0B4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893560431224:android:9ce0cb79bb5e9597c1438d",
+        "android_client_info": {
+          "package_name": "com.modemovieappl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApjR_IMscXdRUhWWUDib1j9G-tJFnV0B4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
